@@ -1,8 +1,8 @@
 {
   "name": "recipe-page-main",
   "private": true,
-  "version": "0.0.0",
-  "homepage": "http://github.com/Walker-90207/Recipe-page-main",
+  "version": "0.1.0",
+  "homepage": "https://github.com/Walker-90207/Recipe-page",
   "type": "module",
   "scripts": {
     "dev": "vite",
